@@ -14,7 +14,16 @@ None yet.
 
 ### Unpublished
 
-TODO List the unpublished projects here.
+All of the following are in various states of incompletion. The names for all of these projects are just provisional. Suggestions are welcome :) I'm hoping to start publishing some of these soon.
+
+| Name                      | Description                                |
+| ------------------------- | ------------------------------------------ |
+| CommandLineInterface      | Java library for commandline applications  |
+| NextToDo                  | Extensions to to the todo.txt system       | 
+| Babe                      | Typesafe minimalist build system           |
+| Jot                       | A note taking system using Angular         |
+| MicrochimerismDataManager | Data processing for a research project     |
+| Mshell                    | A humane shell                             |
 
 ## Status
 
@@ -22,7 +31,7 @@ This index is a work in progress. As more work is contributed to this site, the 
 
 ## TODO 
 
-* Add more projects
+* Add more projects to the published/unpublished lists
 
 ## Author
 
