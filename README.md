@@ -1,10 +1,13 @@
-# index
+# Index
 
 A "top level" introduction to my projects, including an overview and some documentation.
 
 ## Objective
 
-I have some hobby projects that I've been working on, sporadically, for a while. In case anyone might find them useful, I'm publishing them here. If any of this is of value to you, or if you have ideas on how to improve or build on it, please let me know.
+I have some hobby projects that I've been working on, sporadically, for a while. While the 
+work is in some places quite rough, there may be some ideas there that others might find 
+helpful. I'm publishing these projects here, over time. If any of it is of value to you, 
+or if you have ideas on how to improve or build on it, please let me know.
 
 ## Projects
 
@@ -14,7 +17,9 @@ None yet.
 
 ### Unpublished
 
-All of the following are in various states of incompletion. The names for all of these projects are just provisional. Suggestions are welcome :) I'm hoping to start publishing some of these soon.
+All of the following are in various states of incompletion. The names for all of these 
+projects are just provisional. Suggestions are welcome :) I'm hoping to start publishing 
+some of these soon.
 
 | Name                      | Description                                |
 | ------------------------- | ------------------------------------------ |
@@ -27,7 +32,8 @@ All of the following are in various states of incompletion. The names for all of
 
 ## Status
 
-This index is a work in progress. As more work is contributed to this site, the index will be updated.
+This index is a work in progress. As more work is contributed to this site, the index will 
+be updated.
 
 ## TODO 
 
