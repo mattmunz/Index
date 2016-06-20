@@ -29,6 +29,7 @@ some of these soon.
 | Jot                       | A note taking system using Angular         |
 | MicrochimerismDataManager | Data processing for a research project     |
 | Mshell                    | A humane shell                             |
+| Miscellany                | A collection of code that might be shared among projects but isn't necessarily related in any other way. |
 
 ## Status
 
