@@ -18,7 +18,7 @@ All of the following are in various states of incompletion. The names for all of
 
 | Name                      | Description                                |
 | ------------------------- | ------------------------------------------ |
-| CommandLineInterface      | Java library for commandline applications  |
+| CommandLineInterface      | Java library for command line applications |
 | NextToDo                  | Extensions to to the todo.txt system       | 
 | Babe                      | Typesafe minimalist build system           |
 | Jot                       | A note taking system using Angular         |
