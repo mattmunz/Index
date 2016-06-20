@@ -13,7 +13,9 @@ or if you have ideas on how to improve or build on it, please let me know.
 
 ### Published
 
-None yet.
+| Name                      | Description                                |
+| ------------------------- | ------------------------------------------ |
+| [Miscellany](https://github.com/mattmunz/Miscellany) | A collection of code that might be shared among projects but isn't necessarily related in any other way. |
 
 ### Unpublished
 
