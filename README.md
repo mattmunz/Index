@@ -41,6 +41,11 @@ be updated.
 
 * Add more projects to the published/unpublished lists
 
+## Contact
+
+Please contact [Matt Munz](https://github.com/mattmunz) if you have any difficulty or 
+to provide feedback (which would be very welcome).
+
 ## Author
 
-Matt Munz
+[Matt Munz](https://github.com/mattmunz)
