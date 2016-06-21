@@ -16,6 +16,7 @@ or if you have ideas on how to improve or build on it, please let me know.
 | Name                      | Description                                |
 | ------------------------- | ------------------------------------------ |
 | [Miscellany](https://github.com/mattmunz/Miscellany) | A collection of code that might be shared among projects but isn't necessarily related in any other way. |
+| [CommandLineInterface](https://github.com/mattmunz/CommandLineInterface) | A Java library for command line applications |
 
 ### Unpublished
 
@@ -25,7 +26,6 @@ some of these soon.
 
 | Name                      | Description                                |
 | ------------------------- | ------------------------------------------ |
-| CommandLineInterface      | Java library for command line applications |
 | NextToDo                  | Extensions to to the todo.txt system       | 
 | Babe                      | Typesafe minimalist build system           |
 | Jot                       | A note taking system using Angular         |
