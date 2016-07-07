@@ -11,6 +11,9 @@ or if you have ideas on how to improve or build on it, please let me know.
 
 ## Projects
 
+All of the following are in various states of incompletion. The names for all of these 
+projects are just provisional. Suggestions are welcome :) 
+
 ### Published
 
 | Name                      | Description                                |
@@ -20,17 +23,17 @@ or if you have ideas on how to improve or build on it, please let me know.
 
 ### Unpublished
 
-All of the following are in various states of incompletion. The names for all of these 
-projects are just provisional. Suggestions are welcome :) I'm hoping to start publishing 
-some of these soon.
+I'm hoping to start publishing some of these soon.
 
 | Name                      | Description                                |
 | ------------------------- | ------------------------------------------ |
-| NextToDo                  | Extensions to to the todo.txt system       | 
+| Next To Do                | Extensions to to the todo.txt system       | 
 | Babe                      | Typesafe minimalist build system           |
 | Jot                       | A note taking system using Angular         |
-| MicrochimerismDataManager | Data processing for a research project     |
-| Mshell                    | A humane shell                             |
+| Microchimerism Data Manager | Data processing for a research project     |
+| Mshell                      | A humane shell                             |
+| Reasons                     | A system to collect and refine questions, answers, and reasons. |
+| Unnamed Song                | A musical composition, as yet to be named. |
 
 ## Status
 
