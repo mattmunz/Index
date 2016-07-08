@@ -20,6 +20,7 @@ projects are just provisional. Suggestions are welcome :)
 | ------------------------- | ------------------------------------------ |
 | [Miscellany](https://github.com/mattmunz/Miscellany) | A collection of code that might be shared among projects but isn't necessarily related in any other way. |
 | [CommandLineInterface](https://github.com/mattmunz/CommandLineInterface) | A Java library for command line applications |
+| [Browser Home](https://github.com/mattmunz/BrowserHome)                  | A simple browser homepage, that can be an alternative to a system desktop |
 
 ### Unpublished
 
@@ -29,7 +30,6 @@ I'm hoping to start publishing some of these soon.
 | ------------------------- | ------------------------------------------ |
 | Next To Do                | Extensions to to the todo.txt system       | 
 | Babe                      | Typesafe minimalist build system           |
-| Browser Home                | A simple browser homepage, that can be an alternative to a system desktop |
 | Jot                         | A note taking system using Angular         |
 | Microchimerism Data Manager | Data processing for a research project     |
 | Mshell                      | A humane shell                             |
