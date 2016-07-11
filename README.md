@@ -18,10 +18,11 @@ projects are just provisional. Suggestions are welcome :)
 
 | Name                      | Description                                |
 | ------------------------- | ------------------------------------------ |
-| [Browser Home](https://github.com/mattmunz/BrowserHome)                  | A simple browser homepage, that can be an alternative to a system desktop |
+| [Browser Home](https://github.com/mattmunz/BrowserHome)                    | A simple browser homepage, that can be an alternative to a system desktop |
 | [Command Line Interface](https://github.com/mattmunz/CommandLineInterface) | A Java library for command line applications |
-| [Miscellany](https://github.com/mattmunz/Miscellany) | A collection of code that might be shared among projects but isn't necessarily related in any other way. |
-| [Song for Everything](https://github.com/mattmunz/SongForEverything)     | A large scale musical composition. |
+| [Miscellany](https://github.com/mattmunz/Miscellany)                       | A collection of code that might be shared among projects but isn't necessarily related in any other way. |
+| [Reasons](https://github.com/mattmunz/Reasons)                             | A system to collect and refine questions, answers, and reasons. |
+| [Song for Everything](https://github.com/mattmunz/SongForEverything)       | A large scale musical composition. |
 
 ### Unpublished
 
@@ -34,7 +35,6 @@ I'm hoping to start publishing some of these soon.
 | Jot                         | A note taking system using Angular         |
 | Microchimerism Data Manager | Data processing for a research project     |
 | Mshell                      | A humane shell                             |
-| Reasons                     | A system to collect and refine questions, answers, and reasons. |
 
 ## Status
 
