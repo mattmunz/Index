@@ -21,6 +21,7 @@ projects are just provisional. Suggestions are welcome :)
 | [Miscellany](https://github.com/mattmunz/Miscellany) | A collection of code that might be shared among projects but isn't necessarily related in any other way. |
 | [CommandLineInterface](https://github.com/mattmunz/CommandLineInterface) | A Java library for command line applications |
 | [Browser Home](https://github.com/mattmunz/BrowserHome)                  | A simple browser homepage, that can be an alternative to a system desktop |
+| [Song for Everything](https://github.com/mattmunz/SongForEverything)     | A large scale musical composition. |
 
 ### Unpublished
 
@@ -34,7 +35,6 @@ I'm hoping to start publishing some of these soon.
 | Microchimerism Data Manager | Data processing for a research project     |
 | Mshell                      | A humane shell                             |
 | Reasons                     | A system to collect and refine questions, answers, and reasons. |
-| Unnamed Song                | A musical composition, as yet to be named. |
 
 ## Status
 
