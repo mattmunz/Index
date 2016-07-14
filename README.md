@@ -20,6 +20,7 @@ projects are just provisional. Suggestions are welcome :)
 | ------------------------- | ------------------------------------------ |
 | [Browser Home](https://github.com/mattmunz/BrowserHome)                    | A simple browser homepage, that can be an alternative to a system desktop |
 | [Command Line Interface](https://github.com/mattmunz/CommandLineInterface) | A Java library for command line applications |
+| [Jot](https://github.com/mattmunz/Jot)          | A note taking system using Angular         |
 | [Miscellany](https://github.com/mattmunz/Miscellany)                       | A collection of code that might be shared among projects but isn't necessarily related in any other way. |
 | [Next To Do](https://github.com/mattmunz/NextToDo)                         | Extensions to to the todo.txt system       | 
 | [Reasons](https://github.com/mattmunz/Reasons)                             | A system to collect and refine questions, answers, and reasons. |
@@ -32,7 +33,6 @@ I'm hoping to start publishing some of these soon.
 | Name                      | Description                                |
 | ------------------------- | ------------------------------------------ |
 | Babe                      | Typesafe minimalist build system           |
-| Jot                         | A note taking system using Angular         |
 | Microchimerism Data Manager | Data processing for a research project     |
 | Mshell                      | A humane shell                             |
 
