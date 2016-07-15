@@ -33,6 +33,7 @@ I'm hoping to start publishing some of these soon.
 | Name                      | Description                                |
 | ------------------------- | ------------------------------------------ |
 | Babe                      | Typesafe minimalist build system           |
+| CAEC                      | Computer-Aided Etude Composition in Haskell, using [Haskore](https://wiki.haskell.org/Haskore) |
 | Microchimerism Data Manager | Data processing for a research project     |
 | Mshell                      | A humane shell                             |
 
