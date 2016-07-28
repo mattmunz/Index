@@ -22,7 +22,7 @@ projects are just provisional. Suggestions are welcome :)
 | [Command Line Interface](https://github.com/mattmunz/CommandLineInterface) | A Java library for command line applications |
 | [Jot](https://github.com/mattmunz/Jot)          | A note taking system using Angular         |
 | [Miscellany](https://github.com/mattmunz/Miscellany)                       | A collection of code that might be shared among projects but isn't necessarily related in any other way. |
-| [Mshell](https://github.com/mattmunz/MShell)                      | A humane shell                             |
+| [M Shell](https://github.com/mattmunz/MShell)                      | A humane shell                             |
 | [Next To Do](https://github.com/mattmunz/NextToDo)                         | Extensions to to the todo.txt system       | 
 | [Reasons](https://github.com/mattmunz/Reasons)                             | A system to collect and refine questions, answers, and reasons. |
 | [Song for Everything](https://github.com/mattmunz/SongForEverything)       | A large scale musical composition. |
