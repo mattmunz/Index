@@ -33,8 +33,10 @@ projects are just provisional. Suggestions are welcome :)
 | --------------------------- | ------------------------------------------ |
 | Babe                        | Typesafe minimalist build system.           |
 | CAEC                        | Computer-Aided Etude Composition in Haskell, using [Haskore](https://wiki.haskell.org/Haskore). |
+| Gen                         | Code generation for web applications.       |
 | Microchimerism Data Manager | Data processing for a research project.     |
 | Monk                        | General-purpose programming language targeting Go.  |
+| Nonzero Sum Application     | The source code for [Nonzero Sum](https://nonzerosumsolutions.com). |
 | Speedtest                   | Convenient wrapper for the Ookla speedtest CLI. |
 | Spelling Bee                | Solver for the NYT spelling bee puzzle.     |
 | Scratch Music               | Algorithmic composition system in Go using the Supercollider synthesis engine. |
