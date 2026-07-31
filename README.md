@@ -4,7 +4,7 @@ A "top level" introduction to my projects, including an overview and some docume
 
 ## Objective
 
-I have some hobby projects that I've been working on, sporadically, for a while. While the 
+I have some personal projects that I've been working on, sometimes sporadically, for a while. While the 
 work is in some places incomplete, there may be some ideas here that others might find 
 helpful. I'm publishing these projects over time. If any of it is of value to you, 
 or if you have ideas on how to improve or build on it, please let me know.
@@ -14,7 +14,33 @@ or if you have ideas on how to improve or build on it, please let me know.
 All of the following are in various states of incompletion. The names for all of these 
 projects are just provisional. Suggestions are welcome :) 
 
-### Published
+### Nonzero Sum
+
+Much of my recent work has been through the [Nonzero Sum](https://nonzerosumsolutions.com/) organization. The Github repositories for Nonzero Sum can be found [here](https://github.com/Nonzero-Sum-Solutions).
+
+#### Published
+
+| Name                      | Description                                |
+| ------------------------- | ------------------------------------------ |
+| [designlanguage](https://github.com/Nonzero-Sum-Solutions/designlanguage) | A language and tools for application structure.|
+| [helloapppy](https://github.com/Nonzero-Sum-Solutions/helloapppy)| An example application using the Nonzero Sum Stack, in Python. |
+| [appkit](https://github.com/Nonzero-Sum-Solutions/appkit) | An application development kit, part of the Nonzero Sum Stack. |
+| [helloapp](https://github.com/Nonzero-Sum-Solutions/helloapp) | An example application using the Nonzero Sum Stack, in Go. | 
+
+#### Unpublished
+
+| Name                        | Description                                |
+| --------------------------- | ------------------------------------------ |
+| nonzerosum    | The Nonzero Sum website |
+| Crystal System | An experiment in growing software, analagous to biological growth. |
+| terminator                  | The initial implementation of the mobile app for Crystal System.|
+| terminator2                 | A second implementation of the mobile app for Crystal System. |
+
+### Miscellaneous
+
+The following projects have been developed over time. Some are research projects from my grad school days.
+
+#### Published
 
 | Name                      | Description                                |
 | ------------------------- | ------------------------------------------ |
@@ -27,7 +53,7 @@ projects are just provisional. Suggestions are welcome :)
 | [Reasons](https://github.com/mattmunz/Reasons)                             | A system to collect and refine questions, answers, and reasons. |
 | [Song for Everything](https://github.com/mattmunz/SongForEverything)       | A large scale musical composition. |
 
-### Unpublished
+#### Unpublished
 
 | Name                        | Description                                |
 | --------------------------- | ------------------------------------------ |
@@ -36,7 +62,6 @@ projects are just provisional. Suggestions are welcome :)
 | Gen                         | Code generation for web applications.       |
 | Microchimerism Data Manager | Data processing for a research project.     |
 | Monk                        | General-purpose programming language targeting Go.  |
-| Nonzero Sum Application     | The source code for [Nonzero Sum](https://nonzerosumsolutions.com). |
 | Speedtest                   | Convenient wrapper for the Ookla speedtest CLI. |
 | Spelling Bee                | Solver for the NYT spelling bee puzzle.     |
 | Scratch Music               | Algorithmic composition system in Go using the Supercollider synthesis engine. |
